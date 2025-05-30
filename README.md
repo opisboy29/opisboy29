@@ -24,7 +24,7 @@
 ---
 
 <details>
-  <summary><strong>💻 Tech Stack (Click to expand)</strong></summary>
+  <summary><strong>💻 Tech Stack</strong></summary>
 
 #### ✅ Tools I Use Regularly
 
@@ -105,18 +105,24 @@
 
 ---
 
-### 🎯 Currently Focusing On
+<details>
+  <summary><strong>🎯 Currently Focusing On</strong></summary>
 
 - Improving CI/CD pipelines using GitHub Actions and GitLab CI  
 - Dockerizing legacy applications and services  
 - Exploring Infrastructure as Code with Terraform and Ansible  
 - Observability using Prometheus, Grafana, and Elastic Stack
 
+</details>
+
 ---
 
-### 📊 GitHub Stats
-
+<details>
+  <summary><strong>📊 GitHub Stats</strong></summary>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opisboy29&show_icons=true&theme=github_dark)
+
+</details>
 
 ---
 
