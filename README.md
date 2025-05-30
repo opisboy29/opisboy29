@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Engineer from Indonesia who’s passionate about automation and infrastructure.</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=opisboy29&label=Profile%20Views&color=0e75b6&icon=5&style=flat-square" alt="visitor badge" />
+  <img src="https://visitcount.itsvg.in/api?id=opisboy29&label=Profile%20Views&color=0e75b6&icon=5" alt="visitor badge" />
 </p>
 
 ---
@@ -75,7 +75,6 @@
 
 ### ✍️ Random Dev Quote
 
-<blockquote>
-  <p><em>“What a computer is to me is it's the most remarkable tool that we have ever come up with. It’s the equivalent of a bicycle for our minds.”</em></p>
-  <p align="right"><strong>– Steve Jobs</strong></p>
-</blockquote>
+### ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
