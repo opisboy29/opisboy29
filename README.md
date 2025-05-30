@@ -7,19 +7,27 @@
 
 ---
 
-### 📬 How to Reach Me
+<h3 align="center">📬 How to Reach Me</h3>
 
-[![Email](https://img.shields.io/badge/Email-emperorcandy29@gmail.com-blue?style=flat-square&logo=gmail)](mailto:emperorcandy29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabima-reyhan-687b1b130/)
+<p align="center">
+  <a href="mailto:emperorcandy29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-emperorcandy29@gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nabima-reyhan-687b1b130/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+</p>
 
 ---
 
-### 💻 My Workspace
+<h3 align="center">💻 My Workspace</h3>
 
-![Debian](https://img.shields.io/badge/Debian-Desktop-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB-007ACC?style=for-the-badge)
-![AMD](https://img.shields.io/badge/AMD-RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-Desktop-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AMD-RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</p>
 
 ---
 
