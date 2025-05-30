@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Engineer from Indonesia who’s passionate about automation and infrastructure.</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=opisboy29&label=Profile%20Views&color=0e75b6&icon=5" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=opisboy29&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge" />
 </p>
 
 ---
@@ -72,8 +72,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opisboy29&show_icons=true&theme=github_dark)
 
 ---
-
-### ✍️ Random Dev Quote
 
 ### ✍️ Random Dev Quote
 
