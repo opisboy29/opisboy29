@@ -22,6 +22,13 @@
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=opisboy29&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+### 💻 My Workspace
+
+![Debian](https://img.shields.io/badge/Debian-Desktop-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-16GB-007ACC?style=for-the-badge)
+![AMD](https://img.shields.io/badge/AMD-RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
