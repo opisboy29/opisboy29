@@ -23,7 +23,8 @@
 
 ---
 
-### 💻 Tech Stack
+<details>
+  <summary><strong>💻 Tech Stack (Click to expand)</strong></summary>
 
 #### ✅ Tools I Use Regularly
 
@@ -75,8 +76,6 @@
 ##### 🖥️ Environment / UI
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
----
-
 > 🧩 Listing a tool here means I've used or worked with it — but it doesn’t necessarily mean I’ve mastered it. I believe learning is always ongoing in DevOps.
 
 ---
@@ -100,9 +99,9 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Falco](https://img.shields.io/badge/Falco-4AADD6?style=for-the-badge&logo=falco&logoColor=white)
 
----
+> 📝 Tools in “Exploring or Learning” are ones I’m currently studying, testing, or planning to integrate in real-world use.
 
-> 📝 *Tools in “Exploring or Learning” are ones I’m currently studying, testing, or planning to integrate in real-world use.*
+</details>
 
 ---
 
