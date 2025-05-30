@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=opisboy29&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge" />
 </p>
 
----
-
 <h3 align="center">📬 How to Reach Me</h3>
 
 <p align="center">
@@ -18,8 +16,6 @@
   </a>
 </p>
 
----
-
 <h3 align="center">💻 My Workspace</h3>
 
 <p align="center">
@@ -28,8 +24,6 @@
   <img src="https://img.shields.io/badge/RAM-16GB-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AMD-RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
-
----
 
 <details>
   <summary><strong>💻 Tech Stack</strong></summary>
